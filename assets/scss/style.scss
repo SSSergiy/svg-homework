@@ -3,48 +3,44 @@
   stroke: purple;
   transition: 1s;
 }
-.svg:hover .circle{
+.svg:hover .circle {
   fill: green;
   stroke: yellow;
 }
-.bigkvadrareks{
+.bigkvadrareks {
   fill: rgb(4, 254, 4);
   stroke: blue;
   transition: 1s;
 }
-.bigkvadra:hover .bigkvadrareks{
+.bigkvadra:hover .bigkvadrareks {
   fill: rosybrown;
   stroke: rgb(255, 242, 0);
 }
-.kvadrarect{
+.kvadrarect {
   fill: red;
   stroke: purple;
   transition: 1s;
-
 }
 .kvadra:hover .kvadrarect {
   fill: rgb(5, 254, 255);
   stroke: blue;
 }
-.stoop{
-  offset:0%;
+.stoop {
+  offset: 0%;
   stop-color: rgb(255, 255, 0);
   stop-opacity: 1;
 }
-.stoopp{
+.stoopp {
   stop-color: rgb(255, 0, 0);
   stop-opacity: 1;
   transition: 1s;
-
 }
-.slll:hover .ellipse{
-  stroke:rgb(5, 254, 255)
-  }
-  .slll:hover .stoopp{
-    stop-color: rgb(240, 252, 2);
-  }
-
+.slll:hover .ellipse {
+  stroke: rgb(5, 254, 255);
+}
+.slll:hover .stoopp {
+  stop-color: rgb(240, 252, 2);
+}
 .ellipse {
   transition: 1s;
-
 }
